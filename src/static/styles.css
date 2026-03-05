@@ -65,6 +65,17 @@ section h3 {
   background-color: #f9f9f9;
 }
 
+.activity-card ul {
+  margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: disc;
+}
+
+.activity-card li {
+  margin-bottom: 5px;
+  color: #555;
+}
+
 .activity-card h4 {
   margin-bottom: 10px;
   color: #0066cc;
